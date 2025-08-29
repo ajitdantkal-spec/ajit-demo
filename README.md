@@ -1,3 +1,3 @@
 # ajit-demo
 first project
-author-ajit
+author-ajit(ajit dantkal)
